@@ -1,6 +1,9 @@
 ### Hi, I'm Bohdan 👋
 
-- 📫 How to reach me: bogdanpoberezhnyi@gmail.com
+<p align='center'>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:bogdanpoberezhnyi@gmail.com'>bogdanpoberezhnyi@gmail.com</a>
+</p>
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
