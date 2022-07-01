@@ -13,6 +13,3 @@ I am a second year student at the Czech Technical University in Prague. My speci
 * I'm a Linux user
 
 ## :computer: My projects
-*
-*
-*
